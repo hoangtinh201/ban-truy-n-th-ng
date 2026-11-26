@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Vòng tròn nền -->
+  <circle cx="100" cy="100" r="95" fill="url(#bgGradient)"/>
+  <circle cx="100" cy="100" r="95" fill="none" stroke="url(#goldGradient)" stroke-width="4"/>
+
+  <!-- Biểu tượng sóng truyền thông -->
+  <g fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round">
+    <path d="M 70 100 Q 85 80 100 100 T 130 100" opacity="0.9"/>
+    <path d="M 60 100 Q 80 70 100 100 T 140 100" opacity="0.6"/>
+    <path d="M 50 100 Q 75 60 100 100 T 150 100" opacity="0.3"/>
+  </g>
+
+  <!-- Điểm phát sóng trung tâm -->
+  <circle cx="100" cy="100" r="8" fill="url(#goldGradient)"/>
+
+  <!-- Chữ BTT -->
+  <text x="100" y="155" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle" font-family="Arial, sans-serif">BTT</text>
+</svg>
