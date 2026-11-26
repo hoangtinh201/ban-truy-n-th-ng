@@ -1,0 +1,94 @@
+{
+  "lastUpdate": "2024-11-26T00:00:00Z",
+  "terms": {
+    "2023-2026": [
+      {
+        "id": 1,
+        "name": "Nguyễn Văn A",
+        "position": "Trưởng Ban",
+        "email": "nguyenvana@gmail.com",
+        "phone": "0901111111",
+        "birthYear": 1998,
+        "birthday": "1998-05-15",
+        "gender": "male",
+        "parish": "Giáo xứ Thánh Tâm",
+        "address": "Quận 1, TP.HCM",
+        "avatar": "assets/images/members/member1.jpg",
+        "active": true,
+        "term": "2023-2026",
+        "joinedDate": "2023-01-01",
+        "bio": "Trưởng Ban nhiệm kỳ 2023-2026"
+      },
+      {
+        "id": 2,
+        "name": "Trần Thị B",
+        "position": "Phó Ban",
+        "email": "tranthib@gmail.com",
+        "phone": "0902222222",
+        "birthYear": 1999,
+        "birthday": "1999-08-20",
+        "gender": "female",
+        "parish": "Giáo xứ Thánh Tâm",
+        "address": "Quận 3, TP.HCM",
+        "avatar": "assets/images/members/member2.jpg",
+        "active": true,
+        "term": "2023-2026",
+        "joinedDate": "2023-01-01",
+        "bio": "Phó Ban nhiệm kỳ 2023-2026"
+      },
+      {
+        "id": 3,
+        "name": "Lê Văn C",
+        "position": "Thư ký",
+        "email": "levanc@gmail.com",
+        "phone": "0903333333",
+        "birthYear": 2000,
+        "birthday": "2000-12-10",
+        "gender": "male",
+        "parish": "Giáo xứ Thánh Tâm",
+        "address": "Quận 5, TP.HCM",
+        "avatar": "assets/images/members/member3.jpg",
+        "active": true,
+        "term": "2023-2026",
+        "joinedDate": "2023-01-01",
+        "bio": "Thư ký nhiệm kỳ 2023-2026"
+      }
+    ],
+    "2026-2029": [
+      {
+        "id": 4,
+        "name": "Phạm Thị D",
+        "position": "Trưởng Ban",
+        "email": "phamthid@gmail.com",
+        "phone": "0904444444",
+        "birthYear": 2001,
+        "birthday": "2001-03-25",
+        "gender": "female",
+        "parish": "Giáo xứ Thánh Tâm",
+        "address": "Quận 7, TP.HCM",
+        "avatar": "assets/images/members/member4.jpg",
+        "active": true,
+        "term": "2026-2029",
+        "joinedDate": "2026-01-01",
+        "bio": "Trưởng Ban nhiệm kỳ 2026-2029"
+      },
+      {
+        "id": 5,
+        "name": "Hoàng Văn E",
+        "position": "Phó Ban",
+        "email": "hoangvane@gmail.com",
+        "phone": "0905555555",
+        "birthYear": 2002,
+        "birthday": "2002-07-18",
+        "gender": "male",
+        "parish": "Giáo xứ Thánh Tâm",
+        "address": "Quận 10, TP.HCM",
+        "avatar": "assets/images/members/member5.jpg",
+        "active": true,
+        "term": "2026-2029",
+        "joinedDate": "2026-01-01",
+        "bio": "Phó Ban nhiệm kỳ 2026-2029"
+      }
+    ]
+  }
+}

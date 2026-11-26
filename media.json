@@ -1,0 +1,70 @@
+{
+  "lastUpdate": "2024-11-26T00:00:00Z",
+  "media": [
+    {
+      "id": 1,
+      "name": "Báo cáo tháng 9",
+      "type": "pdf",
+      "year": "2024",
+      "month": "9",
+      "fileUrl": "assets/media/2024/09/baocao-t9.pdf",
+      "fileSize": "2.5MB",
+      "category": "Báo cáo",
+      "uploadedBy": "admin",
+      "uploadedAt": "2024-09-30T00:00:00Z",
+      "downloads": 15
+    },
+    {
+      "id": 2,
+      "name": "Hình ảnh Thánh lễ Tạ ơn",
+      "type": "jpg",
+      "year": "2024",
+      "month": "10",
+      "fileUrl": "assets/media/2024/10/taon-images.zip",
+      "fileSize": "45.8MB",
+      "category": "Hình ảnh",
+      "uploadedBy": "Lê Văn C",
+      "uploadedAt": "2024-10-10T00:00:00Z",
+      "downloads": 23
+    },
+    {
+      "id": 3,
+      "name": "Video Raw Livestream 15/11",
+      "type": "mp4",
+      "year": "2024",
+      "month": "11",
+      "fileUrl": "assets/media/2024/11/livestream-1511.mp4",
+      "fileSize": "1.2GB",
+      "category": "Video",
+      "uploadedBy": "Hoàng Văn E",
+      "uploadedAt": "2024-11-15T00:00:00Z",
+      "downloads": 5
+    },
+    {
+      "id": 4,
+      "name": "Template Design Poster",
+      "type": "psd",
+      "year": "2024",
+      "month": "11",
+      "fileUrl": "assets/media/2024/11/template-poster.psd",
+      "fileSize": "125MB",
+      "category": "Design",
+      "uploadedBy": "Phạm Thị D",
+      "uploadedAt": "2024-11-18T00:00:00Z",
+      "downloads": 8
+    },
+    {
+      "id": 5,
+      "name": "Danh sách email giáo dân",
+      "type": "xlsx",
+      "year": "2024",
+      "month": "1",
+      "fileUrl": "assets/media/2024/01/email-list.xlsx",
+      "fileSize": "156KB",
+      "category": "Tài liệu",
+      "uploadedBy": "admin",
+      "uploadedAt": "2024-01-05T00:00:00Z",
+      "downloads": 42
+    }
+  ]
+}

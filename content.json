@@ -1,0 +1,73 @@
+{
+  "lastUpdate": "2024-11-26T00:00:00Z",
+  "content": [
+    {
+      "id": 1,
+      "title": "Poster Chúa Nhật 24 Thường Niên",
+      "type": "image",
+      "year": "2024",
+      "month": "9",
+      "link": "https://facebook.com/post123",
+      "description": "Poster thông báo chương trình Chúa Nhật",
+      "fileUrl": "assets/images/content/poster-cn24.jpg",
+      "status": "published",
+      "views": 1250,
+      "likes": 89,
+      "shares": 12,
+      "createdBy": "Phạm Thị D",
+      "createdAt": "2024-09-15T00:00:00Z",
+      "publishedAt": "2024-09-18T06:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Video Clip Thánh lễ Tạ ơn",
+      "type": "design",
+      "year": "2024",
+      "month": "10",
+      "link": "https://youtube.com/watch?v=abc123",
+      "description": "Video recap Thánh lễ Tạ ơn 2024",
+      "fileUrl": "assets/videos/content/taon2024.mp4",
+      "status": "published",
+      "views": 3420,
+      "likes": 245,
+      "shares": 56,
+      "createdBy": "Hoàng Văn E",
+      "createdAt": "2024-10-05T00:00:00Z",
+      "publishedAt": "2024-10-08T18:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Logo Ban Truyền Thông 2024",
+      "type": "logo",
+      "year": "2024",
+      "month": "1",
+      "link": "",
+      "description": "Logo chính thức BTT năm 2024",
+      "fileUrl": "assets/logo.svg",
+      "status": "published",
+      "views": 850,
+      "likes": 102,
+      "shares": 8,
+      "createdBy": "Phạm Thị D",
+      "createdAt": "2024-01-10T00:00:00Z",
+      "publishedAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Infographic Mùa Vọng",
+      "type": "image",
+      "year": "2024",
+      "month": "11",
+      "link": "https://facebook.com/post456",
+      "description": "Giới thiệu về ý nghĩa Mùa Vọng",
+      "fileUrl": "assets/images/content/muavong2024.jpg",
+      "status": "draft",
+      "views": 0,
+      "likes": 0,
+      "shares": 0,
+      "createdBy": "admin",
+      "createdAt": "2024-11-20T00:00:00Z",
+      "publishedAt": null
+    }
+  ]
+}
